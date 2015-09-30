@@ -13,4 +13,6 @@ ian:accounts-ui-bootstrap-3
 audit-argument-checks
 tmeasday:errors@2.0.0
 
-maazalik:highcharts
+insecure
+mrt:nvd3js@0.1.0
+d3
